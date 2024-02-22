@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in learning, gaming and music
+- 👀 I’m interested in learning to code, gaming and music
 - 🌱 I’m currently learning JavaScript, HTML and CSS but i have no idea what im doing xd
-- 📫 How to reach me: Shoot me a message on twitter or discord: @ATlex1337 / atlex
+- 📫 How to reach me: Shoot me a message on twitter or discord: @ATlexTheWebDev / atlex
 
 <!---
 ATlexEide/ATlexEide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
