@@ -1,7 +1,7 @@
 # Hi, I’m Alex
 Currently a bootcamp student at [KodeHode](https://www.kodehode.no/)<br><br>
 >🌱 <br>I’m currently learning JavaScript and C#<br>
->:envelope: <br> Twitter >> [@ATlexTheWebDev](https://x.com/ATlexTheWebDev) <br> Discord >> atlex
+>:envelope: <br> Discord >> atlex <br> Twitter >> [@ATlexTheWebDev](https://x.com/ATlexTheWebDev) 
 ```js
 let interests = [
 'learning to code',
