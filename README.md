@@ -1,6 +1,18 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in learning to code, gaming and music
-- 🌱 I’m currently learning JavaScript, HTML and CSS but i have no idea what im doing xd
-- 📫 How to reach me: Shoot me a message on twitter or discord: @ATlexTheWebDev / atlex
+# Hi, I’m Alex
+Currently a bootcamp student at [KodeHode](https://www.kodehode.no/)<br><br>
+>🌱 <br>I’m currently learning JavaScript and C#<br>
+>:envelope: <br> Twitter >> [@ATlexTheWebDev](https://x.com/ATlexTheWebDev) <br> Discord >> atlex
+```js
+let interests = [
+'learning to code',
+'gaming',
+'music'
+];
+```
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=atlexeide&show_icons=false&theme=midnight-purple)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=atlexeide&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlexeide&hide_progress=false&theme=midnight-purple" />
+</a>
