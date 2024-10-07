@@ -4,7 +4,7 @@ Currently a bootcamp student at [KodeHode](https://www.kodehode.no/)<br><br>
 >:envelope: <br> Discord >> atlex <br> Twitter >> [@ATlexTheWebDev](https://x.com/ATlexTheWebDev) 
 ```js
 let interests = [
-'learning to code',
+'coding',
 'gaming',
 'music'
 ];
