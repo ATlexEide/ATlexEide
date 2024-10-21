@@ -11,7 +11,7 @@ let interests = [
 ```
 
 ## My toolbelt //
-<img width="80%" src="https://skillicons.dev/icons?i=js,cs,html,css,figma,git,nodejs,vscode,apple,ubuntu,discordjs">
+<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,figma,cs,dotnet,nodejs,discordjs,git,linux,vscode">
 
 <a href="#">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=atlexeide&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=midnight-purple" />
