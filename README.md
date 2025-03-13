@@ -1,7 +1,7 @@
 # Hello there, I’m Alex
 I'm currently a bootcamp student at <a href="https://www.kodehode.no/" target="_blank">KodeHode</a><br><br>
 >🌱 <br>I’m also in the process of learning TypeScript and a little C# (and dipping my toes in java, thanks minecraft)<br>
->:envelope: <br> Discord >> atlex <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">@ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> ( Under development but feel free to look ^^ )
+>:envelope: <br> Discord >> atlex <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">@ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> ( Under development but feel free to look ^^ ) <br> Email >> contact@alexandereide.com
 ```js
 const interests = [
 'coding',
