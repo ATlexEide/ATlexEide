@@ -11,7 +11,7 @@ const interests = [
 ```
 
 ## My toolbelt //
-<img width="80%" src="https://skillicons.dev/icons?i=js,ts,html,css,react,figma,nodejs,express,discordjs,sqlite,supabase,git,linux">
+<img width="80%" src="https://skillicons.dev/icons?i=js,ts,html,css,react,figma,java,nodejs,express,discordjs,sqlite,postgres,supabase,vercel,vite,git,linux">
 
 <a href="#">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=atlexeide&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=midnight-purple" />
