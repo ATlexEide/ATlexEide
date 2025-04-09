@@ -1,7 +1,7 @@
 # ✨Hello there, I’m Alex✨
 I'm currently developing at <a href="https://www.kodehode.no/" target="_blank">KodeHode</a><br><br>
 
->:envelope: <br> Discord >> atlex <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> ( Under development but feel free to look ^^ ) <br> Email >> contact@alexandereide.com
+>:envelope: <br> Discord >> atlex <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> <br> Email >> contact@alexandereide.com
 ```js
 const interests = [
 'coding',
