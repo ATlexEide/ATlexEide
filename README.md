@@ -1,7 +1,7 @@
 # ✨Hello there, I’m Alex✨
 I'm currently developing for <a href="https://www.kodehode.no/" target="_blank">KodeHode</a> and <a target="_blank" href="https://www.dannygreyproductions.com/">Danny Grey Productions</a><br><br>
 
->:envelope: <br> Discord >> atlex <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> <br> Email >> contact@alexandereide.com
+>:envelope: <br> Discord >> velvetthebnuuy <br> Twitter >> <a href="https://x.com/ATlexTheWebDev" target="_blank">ATlexTheWebDev</a> (Inactive atm) <br> Website >> <a href="https://www.alexandereide.com/" target="_blank">alexandereide.com</a> <br> Email >> contact@alexandereide.com
 ```js
 const interests = [
 'coding',
